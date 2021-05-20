@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: turquoise;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 120%;
+}
+
+
+.bg{
+    margin: 10px;
+    background-color: thistle;
+    padding: 10px;
+}
+
+.content{
+    padding: 10px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    text-align: left;
+}
+
+.chhead{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+img{
+    margin-left: 30% ;
+}
